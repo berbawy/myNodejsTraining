@@ -50,27 +50,17 @@ Hint: You need npm module -> https://github.com/request/request
 
 Write a node.JS program that list the content of the current directory indicating if is a directory or a file
 
-`$ node ex4.js 
-
-FILE:ex1.js
-
-FILE:ex2.js
-
-FILE:ex3.js
-
-FILE:ex4.js
-
-FILE:getLinksNode.js
-
-FILE:link.txt
-
-DIR :node_modules
-
-FILE:recursiveContentsDir.js
-
-FILE:results.txt
-
-FILE:test.txt`
+`$ node ex4.js , 
+FILE:ex1.js , 
+FILE:ex2.js , 
+FILE:ex3.js , 
+FILE:ex4.js , 
+FILE:getLinksNode.js , 
+FILE:link.txt , 
+DIR :node_modules , 
+FILE:recursiveContentsDir.js , 
+FILE:results.txt , 
+FILE:test.txt` 
 
 Hint: You need `fs.readdirSync`, `fs.lstatSync` and `isDirectory()`
 
